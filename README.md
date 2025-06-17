@@ -20,6 +20,5 @@ Welcome! This is a curated list of conference papers about memory mechanisms in 
 | 24.07 | 🍀 【RNNs】 Learning to (Learn at Test Time): RNNs with Expressive Hidden States | [pdf](http://arxiv.org/abs/2407.04620) |  |  | Stanford |
 | 24.02 | 🍀 【MemoryLLM】 MEMORYLLM: Towards Self-Updatable Large Language Models | [pdf](http://arxiv.org/abs/2402.04624) |  |  | UCSD/Amazon |
 | 23.05 | 🍀 【MemoryBank】 MemoryBank: Enhancing Large Language Models with Long-Term Memory | [pdf](https://arxiv.org/abs/2305.10250) |  |  | SYSU, AAAI 2023 |
-两行之间的序号列合并
 
 ## Long-Term Memory Evaluation
